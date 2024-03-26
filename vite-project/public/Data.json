@@ -768,5 +768,197 @@
       "Etat de PC": "TRES LENT",
       "Date d'achat": "5/11/2018"
     }
+  ],
+
+  
+    "imprimantes": [
+      {
+        "SERVICE": "CS",
+        "MARQUE": "KONICA",
+        "MODELE": "KONICA MINOLTA BIZHUB C227",
+        "NOM_UTILISATEUR": "CS SERVICE",
+        "MODEL": "MULTIFONCTION",
+        "TONNER": "COULEUR",
+        "DATE_D'ACHAT": "LOCATION",
+        "SN": "A798027533467"
+      },
+      {
+        "SERVICE": "TRANSIT",
+        "MARQUE": "KONICA",
+        "MODELE": "KONICA MINOLTA BIZHUB 227",
+        "NOM_UTILISATEUR": "TRANSIT",
+        "MODEL": "MULTIFONCTION",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "LOCATION",
+        "SN": "A7AK027020506"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "KONICA",
+        "MODELE": "KONICA MINOLTA BIZHUB 227",
+        "NOM_UTILISATEUR": "OPERATION",
+        "MODEL": "MULTIFONCTION",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "LOCATION",
+        "SN": "A7AK027020499"
+      },
+      {
+        "SERVICE": "DEPCOM",
+        "MARQUE": "KONICA",
+        "MODELE": "KONICA MINOLTA BIZHUB C3320I",
+        "NOM_UTILISATEUR": "DEPCOM",
+        "MODEL": "MULTIFONCTION",
+        "TONNER": "COULEUR",
+        "DATE_D'ACHAT": "LOCATION",
+        "SN": "AAJP021227528"
+      },
+      {
+        "SERVICE": "CS",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet Pro M402-M403",
+        "NOM_UTILISATEUR": "CS SERVICE",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "12/09/2018",
+        "SN": "PHC6F22092"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "HP",
+        "MODELE": "HP Color LaserJet Pro MFP M177 Series",
+        "NOM_UTILISATEUR": "Loubna EL BOURZGUI",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "COULEUR",
+        "DATE_D'ACHAT": "07/04/2019",
+        "SN": "CNG6K4659F"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "HP",
+        "MODELE": "HP LASERJET PRO M202 DN",
+        "NOM_UTILISATEUR": "ZAKIA ELBARRAQI",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "25/01/2019",
+        "SN": "VNC3830987"
+      },
+      {
+        "SERVICE": "CISCO",
+        "MARQUE": "HP",
+        "MODELE": "HP Laserjet M121nf MFP",
+        "NOM_UTILISATEUR": "SARA ELHADI",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "30/01/2017",
+        "SN": "CNG9D4K2YF"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "HP",
+        "MODELE": "HP Color LaserJet Pro MFP M180M",
+        "NOM_UTILISATEUR": "NAJIA LAMTI",
+        "MODEL": "MULTIFONCTION",
+        "TONNER": "COULEUR",
+        "DATE_D'ACHAT": "15/11/2020",
+        "SN": "VNC3851863"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet Pro M402-M403",
+        "NOM_UTILISATEUR": "ZAKARIA MOURID",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "12/09/2018",
+        "SN": "PHC6F22004"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet P2035",
+        "NOM_UTILISATEUR": "ISSAM ELHAIMER",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "07/09/2019",
+        "SN": "VNC4H73169"
+      },
+      {
+        "SERVICE": "OPERATION",
+        "MARQUE": "FUJITSU",
+        "MODELE": "Fi 7160",
+        "NOM_UTILISATEUR": "SCANER FEDEX",
+        "MODEL": "SCANER",
+        "TONNER": "SCANNER",
+        "DATE_D'ACHAT": "",
+        "SN": "A33AH15903"
+      },
+      {
+        "SERVICE": "CAISSIER",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet Pro M22fdw",
+        "NOM_UTILISATEUR": "NOUREDDINE NAJEM",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "27/02/202",
+        "SN": "VNL3310012"
+      },
+      {
+        "SERVICE": "MANIFEST",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet P2035",
+        "NOM_UTILISATEUR": "YOUSSEF ALAISSAMI",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "04/04/2019",
+        "SN": "VNC4H35250"
+      },
+      {
+        "SERVICE": "MAGASINAGE",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet P2035",
+        "NOM_UTILISATEUR": "AHMED ADJOU",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE_D'ACHAT": "04/04/2019",
+        "SN": "VNC4H68597"
+      },
+      {
+        "SERVICE": "FACTURATION",
+        "MARQUE": "HP",
+        "MODELE": "HP LaserJet P2035",
+        "NOM UTILISATEUR": "MOHAMED AJAOUA",
+        "MODEL": "IMPRIMANTE",
+        "TONNER": "NOIR ET BLANC",
+        "DATE D'ACHAT": "07/09/2019",
+        "SN": "VNC4H71231"
+      },
+      {"MARQUE": "HP",
+      "MODELE": "HP LaserJet P2035",
+      "NOM_UTILISATEUR": "MOHAMED AJAOUA",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "07/09/2019",
+      "SN": "VNC4H71231"
+    },
+    {
+      "SERVICE": "DOUANE",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet Pro M102a",
+      "NOM_UTILISATEUR": "DOUANE",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "05/07/2019",
+      "SN": "VNC3T94409"
+    },
+    {
+      "SERVICE": "RH",
+      "MARQUE": "HP",
+      "MODELE": "HP LASERJET PRO MFP M225DN",
+      "NOM_UTILISATEUR": "FATIMA DOUIYA",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "30/01/2017",
+      "SN": "CNB9J593HN"
+    }
   ]
 }
