@@ -1,0 +1,475 @@
+{
+    "ordinateurs": [
+      {
+        "N": 1,
+        "SERVICE": "CS AUDITRICE",
+        "FULL_NAME": "SOFIA CHAKKOUCHE",
+        "Type": "LAPTOP",
+        "Modèle": "HP ELITEBOOK 840 G6",
+        "Fabricant": "HP",
+        "Numéro_de_série": "5CG032539H",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "18/10/2023"
+      },
+      {
+        "N": 2,
+        "SERVICE": "CS IMPORT",
+        "FULL_NAME": "HAJAR GOURARI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6031W7T",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 3,
+        "SERVICE": "CS IMPORT",
+        "FULL_NAME": "SOHA SALIM",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC7099XJK",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 4,
+        "SERVICE": "CS IMPORT",
+        "FULL_NAME": "MOHAMMED BELLAHCEN",
+        "Type": "DESKTOP",
+        "Modèle": "LENOVO 10093",
+        "Fabricant": "LENOVO",
+        "Numéro_de_série": "ES12032250",
+        "system": "Windows 7 PRO",
+        "Etat_de_PC": "A REMPLACER",
+        "Date_d'achat": "10/01/2016"
+      },
+      {
+        "N": 5,
+        "SERVICE": "CS IMPORT",
+        "FULL_NAME": "FATIMAEZZAHRA HMIDDANE",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6031W8P",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 6,
+        "SERVICE": "CS EXPORT",
+        "FULL_NAME": "MOHAMED GUIDALI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6429P55",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      }
+      {
+        "N": 7,
+        "SERVICE": "CS EXPORT",
+        "FULL_NAME": "ZAINAB OUNASSER",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6258QYF",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 8,
+        "SERVICE": "CS EXPORT",
+        "FULL_NAME": "YOUSSEF ABOUNAIM",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G1",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC5431Y8Y",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "11/06/2021"
+      },
+      {
+        "N": 9,
+        "SERVICE": "CS EXPORT",
+        "FULL_NAME": "IKRAM LAHYAOUI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6258QX6",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 10,
+        "SERVICE": "CS EXPORT",
+        "FULL_NAME": "SANAA ELHBARI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "2UA6292BBV",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 11,
+        "SERVICE": "CS RESA",
+        "FULL_NAME": "NAOUAL CHABIB",
+        "Type": "LAPTOP",
+        "Modèle": "HP 250 G6",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CND9023PKW",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "23/04/2019"
+      },
+      {
+        "N": 12,
+        "SERVICE": "CS RESA",
+        "FULL_NAME": "HASNAA BELAMIRI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6031W7C",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 13,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "KHADIJA ROUZAIK",
+        "Type": "LAPTOP",
+        "Modèle": "DELL LATITUDE E5470",
+        "Fabricant": "DELL",
+        "Numéro_de_série": "GLDKPF2",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "1/05/2022"
+      },
+      {
+        "N": 14,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "MOUSTAPHA DRIF",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6429P60",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 15,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "KAOUTAR SAIL",
+        "Type": "DESKTOP",
+        "Modèle": "HP COMPAQ 8100 ELITE",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC0304Q6P",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "01/05/2018"
+      },
+      {
+        "N": 16,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "SAADEDDINE AKKAOUI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC62888SZ",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 17,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "DRISS KHAYAR",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6031W7V",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 18,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "FOUZIA BELOUCHI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6258QY9",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 19,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "IKRAME ZOUGARI",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6278VKP",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 20,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "AYMANE GHARNITI",
+        "Type": "DESKTOP",
+        "Modèle": "HP ELITE DISK 800 G1",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC5520F68",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "15/06/2021"
+      },
+      {
+        "N": 21,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "ZINEB BENMOUSSA",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6069ZT6",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 22,
+        "SERVICE": "CS CLEARENCE",
+        "FULL_NAME": "HOUDA LAGHRIB",
+        "Type": "DESKTOP",
+        "Modèle": "HP PRODESK 600 G2",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC6278WJ7",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "31/01/2023"
+      },
+      {
+        "N": 23,
+        "SERVICE": "RH",
+        "FULL_NAME": "FATIMA DOUIYA",
+        "Type": "LAPTOP",
+        "Modèle": "HP PROBOOK 450 G5",
+        "Fabricant": "HP",
+        "Numéro_de_série": "5CD747FHQN",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL",
+        "Date_d'achat": "11/05/2017"
+      },
+      {
+        "N": 24,
+        "SERVICE": "RH",
+        "FULL_NAME": "FATIMA DOUIYA",
+        "Type": "DESKTOP",
+        "Modèle": "HP COMPAQ 8200 ELITE",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC0304Q68",
+        "system": "Windows 7 PRO",
+        "Etat_de_PC": "A REMPLACER",
+        "Date_d'achat": "04/05/2016"
+      },
+      {
+        "N": 25,
+        "SERVICE": "RH",
+        "FULL_NAME": "FATIMA DOUIYA",
+        "Type": "DESKTOP",
+        "Modèle": "HP COMPAQ 8100 ELITE",
+        "Fabricant": "HP",
+        "Numéro_de_série": "CZC116BPD",
+        "system": "Windows 7 PRO",
+        "Etat_de_PC": "A REMPLACER",
+        "Date_d'achat": "1/06/2019"
+      },
+      {
+        "N": 26,
+        "SERVICE": "RH",
+        "FULL_NAME": "SERVEUR DE CAMERA",
+        "Type": "DESKTOP",
+        "Modèle": "HP Z440 Workstation",
+        "Fabricant": "HP",
+        "Numéro_de_série": "2UA5301R99",
+        "system": "Windows 10 PRO",
+        "Etat_de_PC": "OPERATIONEL"
+      },
+
+
+      {
+        "imprimantes": [
+          {
+            "SERVICE": "CS",
+            "MARQUE": "KONICA",
+            "MODELE": "KONICA MINOLTA BIZHUB C227",
+            "NOM_UTILISATEUR": "CS SERVICE",
+            "MODEL": "MULTIFONCTION",
+            "TONNER": "COULEUR",
+            "DATE_D'ACHAT": "LOCATION",
+            "SN": "A798027533467"
+          },
+          {
+            "SERVICE": "TRANSIT",
+            "MARQUE": "KONICA",
+            "MODELE": "KONICA MINOLTA BIZHUB 227",
+            "NOM_UTILISATEUR": "TRANSIT",
+            "MODEL": "MULTIFONCTION",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "LOCATION",
+            "SN": "A7AK027020506"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "KONICA",
+            "MODELE": "KONICA MINOLTA BIZHUB 227",
+            "NOM_UTILISATEUR": "OPERATION",
+            "MODEL": "MULTIFONCTION",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "LOCATION",
+            "SN": "A7AK027020499"
+          },
+          {
+            "SERVICE": "DEPCOM",
+            "MARQUE": "KONICA",
+            "MODELE": "KONICA MINOLTA BIZHUB C3320I",
+            "NOM_UTILISATEUR": "DEPCOM",
+            "MODEL": "MULTIFONCTION",
+            "TONNER": "COULEUR",
+            "DATE_D'ACHAT": "LOCATION",
+            "SN": "AAJP021227528"
+          },
+          {
+            "SERVICE": "CS",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet Pro M402-M403",
+            "NOM_UTILISATEUR": "CS SERVICE",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "12/09/2018",
+            "SN": "PHC6F22092"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "HP",
+            "MODELE": "HP Color LaserJet Pro MFP M177 Series",
+            "NOM_UTILISATEUR": "Loubna EL BOURZGUI",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "COULEUR",
+            "DATE_D'ACHAT": "07/04/2019",
+            "SN": "CNG6K4659F"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "HP",
+            "MODELE": "HP LASERJET PRO M202 DN",
+            "NOM_UTILISATEUR": "ZAKIA ELBARRAQI",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "25/01/2019",
+            "SN": "VNC3830987"
+          },
+          {
+            "SERVICE": "CISCO",
+            "MARQUE": "HP",
+            "MODELE": "HP Laserjet M121nf MFP",
+            "NOM_UTILISATEUR": "SARA ELHADI",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "30/01/2017",
+            "SN": "CNG9D4K2YF"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "HP",
+            "MODELE": "HP Color LaserJet Pro MFP M180M",
+            "NOM_UTILISATEUR": "NAJIA LAMTI",
+            "MODEL": "MULTIFONCTION",
+            "TONNER": "COULEUR",
+            "DATE_D'ACHAT": "15/11/2020",
+            "SN": "VNC3851863"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet Pro M402-M403",
+            "NOM_UTILISATEUR": "ZAKARIA MOURID",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "12/09/2018",
+            "SN": "PHC6F22004"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet P2035",
+            "NOM_UTILISATEUR": "ISSAM ELHAIMER",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "07/09/2019",
+            "SN": "VNC4H73169"
+          },
+          {
+            "SERVICE": "OPERATION",
+            "MARQUE": "FUJITSU",
+            "MODELE": "Fi 7160",
+            "NOM_UTILISATEUR": "SCANER FEDEX",
+            "MODEL": "SCANER",
+            "TONNER": "SCANNER",
+            "DATE_D'ACHAT": "",
+            "SN": "A33AH15903"
+          },
+          {
+            "SERVICE": "CAISSIER",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet Pro M22fdw",
+            "NOM_UTILISATEUR": "NOUREDDINE NAJEM",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "27/02/202",
+            "SN": "VNL3310012"
+          },
+          {
+            "SERVICE": "MANIFEST",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet P2035",
+            "NOM_UTILISATEUR": "YOUSSEF ALAISSAMI",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "04/04/2019",
+            "SN": "VNC4H35250"
+          },
+          {
+            "SERVICE": "MAGASINAGE",
+            "MARQUE": "HP",
+            "MODELE": "HP LaserJet P2035",
+            "NOM_UTILISATEUR": "AHMED ADJOU",
+            "MODEL": "IMPRIMANTE",
+            "TONNER": "NOIR ET BLANC",
+            "DATE_D'ACHAT": "04/04/2019",
+            "SN": "VNC4H68597"
+          },
+          {
+            "SERVICE": "FACTURATION",
+      
+    ]
+
+
+  }
+  
