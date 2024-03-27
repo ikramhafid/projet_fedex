@@ -7,7 +7,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
-      "Numéro de série": "5CG032539H",
+      "Numéro_de_série": "5CG032539H",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "10/18/2023"
@@ -19,7 +19,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6031W7T",
+      "Numéro_de_série": "CZC6031W7T",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "1/31/2023"
@@ -31,7 +31,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC7099XJK",
+      "Numéro_de_série": "CZC7099XJK",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -43,7 +43,7 @@
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
-      "Numéro de série": "ES12032250",
+      "Numéro_de_série": "ES12032250",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "1/10/2016"
@@ -55,7 +55,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6031W8P",
+      "Numéro_de_série": "CZC6031W8P",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -67,7 +67,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6429P55",
+      "Numéro_de_série": "CZC6429P55",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -79,7 +79,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6258QYF",
+      "Numéro_de_série": "CZC6258QYF",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -91,7 +91,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G1",
       "Fabricant": "HP",
-      "Numéro de série": "CZC5431Y8Y",
+      "Numéro_de_série": "CZC5431Y8Y",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/06/2021"
@@ -103,7 +103,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6258QX6",
+      "Numéro_de_série": "CZC6258QX6",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -115,7 +115,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "2UA6292BBV",
+      "Numéro_de_série": "2UA6292BBV",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -127,7 +127,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP 250 G6",
       "Fabricant": "HP ",
-      "Numéro de série": "CND9023PKW",
+      "Numéro_de_série": "CND9023PKW",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "4/23/2019"
@@ -139,7 +139,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP ",
-      "Numéro de série": "CZC6031W7C",
+      "Numéro_de_série": "CZC6031W7C",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -151,7 +151,7 @@
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
-      "Numéro de série": "GLDKPF2",
+      "Numéro_de_série": "GLDKPF2",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "5/1/2022"
@@ -163,7 +163,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6429P60",
+      "Numéro_de_série": "CZC6429P60",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -175,7 +175,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC0304Q6P",
+      "Numéro_de_série": "CZC0304Q6P",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "01/05/2018"
@@ -187,7 +187,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC62888SZ",
+      "Numéro_de_série": "CZC62888SZ",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -199,7 +199,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6031W7V",
+      "Numéro_de_série": "CZC6031W7V",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -211,7 +211,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6258QY9",
+      "Numéro_de_série": "CZC6258QY9",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -223,7 +223,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6278VKP",
+      "Numéro_de_série": "CZC6278VKP",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -235,7 +235,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP ELITE DISK 800 G1",
       "Fabricant": "HP",
-      "Numéro de série": "CZC5520F68",
+      "Numéro_de_série": "CZC5520F68",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "6/15/2021"
@@ -247,7 +247,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6069ZT6",
+      "Numéro_de_série": "CZC6069ZT6",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -259,7 +259,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
-      "Numéro de série": "CZC6278WJ7",
+      "Numéro_de_série": "CZC6278WJ7",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -271,7 +271,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
-      "Numéro de série": "5CD747FHQN",
+      "Numéro_de_série": "5CD747FHQN",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "5/11/2017"
@@ -283,7 +283,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC0304Q68",
+      "Numéro_de_série": "CZC0304Q68",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "04/05/2016"
@@ -295,7 +295,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC116BPD",
+      "Numéro_de_série": "CZC116BPD",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "6/1/2019"
@@ -307,7 +307,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP Z440 Workstation",
       "Fabricant": "HP",
-      "Numéro de série": "2UA5301R99",
+      "Numéro_de_série": "2UA5301R99",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": null
@@ -319,7 +319,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP NOTEBOOK",
       "Fabricant": "HP",
-      "Numéro de série": "CND53885G",
+      "Numéro_de_série": "CND53885G",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "3/20/2017"
@@ -331,7 +331,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP 250 G6",
       "Fabricant": "HP",
-      "Numéro de série": "CND9023PND",
+      "Numéro_de_série": "CND9023PND",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "23/04/2019"
@@ -343,7 +343,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK  450 G3",
       "Fabricant": "HP",
-      "Numéro de série": "5CD639263M",
+      "Numéro_de_série": "5CD639263M",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/05/2018"
@@ -355,7 +355,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC12010J2",
+      "Numéro_de_série": "CZC12010J2",
       "system": "Windows 7 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/05/2018"
@@ -367,7 +367,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC1384430",
+      "Numéro_de_série": "CZC1384430",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "23/04/2019"
@@ -379,7 +379,7 @@
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E7470",
       "Fabricant": "DELL",
-      "Numéro de série": "5N1TQF2",
+      "Numéro_de_série": "5N1TQF2",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "03/03/2023"
@@ -391,7 +391,7 @@
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
-      "Numéro de série": "FC0XKC2",
+      "Numéro_de_série": "FC0XKC2",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "5/1/2022"
@@ -403,7 +403,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
-      "Numéro de série": "5CG0230TVM",
+      "Numéro_de_série": "5CG0230TVM",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "10/18/2023"
@@ -415,7 +415,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "AUD242084C",
+      "Numéro_de_série": "AUD242084C",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "7/1/2019"
@@ -427,7 +427,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP PROBOOK 600 G3",
       "Fabricant": "HP",
-      "Numéro de série": "2UA73833Y8",
+      "Numéro_de_série": "2UA73833Y8",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "10/18/2023"
@@ -439,7 +439,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP Engage Flex Pro",
       "Fabricant": "HP",
-      "Numéro de série": "CZC939CZDG",
+      "Numéro_de_série": "CZC939CZDG",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": null
@@ -451,7 +451,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G4",
       "Fabricant": "HP",
-      "Numéro de série": "5CG7280KP7",
+      "Numéro_de_série": "5CG7280KP7",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "8/7/2023"
@@ -463,7 +463,7 @@
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
-      "Numéro de série": "ES12032253",
+      "Numéro_de_série": "ES12032253",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "1/10/2016"
@@ -475,7 +475,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G1",
       "Fabricant": "HP",
-      "Numéro de série": "2UA5481B2D",
+      "Numéro_de_série": "2UA5481B2D",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "6/15/2021"
@@ -487,7 +487,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
-      "Numéro de série": "5CG0479HYG",
+      "Numéro_de_série": "5CG0479HYG",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "10/18/2023"
@@ -499,7 +499,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
-      "Numéro de série": "5CG04799CN",
+      "Numéro_de_série": "5CG04799CN",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "10/18/2023"
@@ -511,7 +511,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC2017SC9",
+      "Numéro_de_série": "CZC2017SC9",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "01/05/2018"
@@ -523,7 +523,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 6200 PRO",
       "Fabricant": "HP",
-      "Numéro de série": "TRF14205FB",
+      "Numéro_de_série": "TRF14205FB",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "01/05/2018"
@@ -535,7 +535,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "AUD2420BKC",
+      "Numéro_de_série": "AUD2420BKC",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "7/1/2019"
@@ -547,7 +547,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G3",
       "Fabricant": "HP",
-      "Numéro de série": "5CG7042QB7",
+      "Numéro_de_série": "5CG7042QB7",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "3/26/2021"
@@ -559,7 +559,7 @@
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
-      "Numéro de série": "5CD747FHPN",
+      "Numéro_de_série": "5CD747FHPN",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/05/2018"
@@ -571,7 +571,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G3",
       "Fabricant": "HP",
-      "Numéro de série": "8CG8228889",
+      "Numéro_de_série": "8CG8228889",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "31/01/2023"
@@ -583,7 +583,7 @@
       "Type": "LAPTOP",
       "Modèle": "DELL Latitude E5470",
       "Fabricant": "DELL",
-      "Numéro de série": "7HX1BG2",
+      "Numéro_de_série": "7HX1BG2",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "5/1/2022"
@@ -595,7 +595,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "2UA0491759",
+      "Numéro_de_série": "2UA0491759",
       "system": "Windows 7 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "6/1/2019"
@@ -607,7 +607,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G1",
       "Fabricant": "HP",
-      "Numéro de série": "2UA5481922",
+      "Numéro_de_série": "2UA5481922",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "6/15/2021"
@@ -619,7 +619,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "AUD20108WF",
+      "Numéro_de_série": "AUD20108WF",
       "system": "Windows 7 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/05/2017"
@@ -631,7 +631,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP Desktop Pro G2",
       "Fabricant": "HP",
-      "Numéro de série": "4CE9090QF8",
+      "Numéro_de_série": "4CE9090QF8",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "1/1/2020"
@@ -643,7 +643,7 @@
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
-      "Numéro de série": "ES12032245",
+      "Numéro_de_série": "ES12032245",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "1/10/2016"
@@ -655,7 +655,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 6200 PRO",
       "Fabricant": "HP",
-      "Numéro de série": "CZC1283NLX",
+      "Numéro_de_série": "CZC1283NLX",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "01/05/2018"
@@ -667,7 +667,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC0304Q63",
+      "Numéro_de_série": "CZC0304Q63",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "6/1/2019"
@@ -679,7 +679,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC0304Q74",
+      "Numéro_de_série": "CZC0304Q74",
       "system": "Windows 10 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "6/1/2019"
@@ -691,7 +691,7 @@
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
-      "Numéro de série": "9TMNPC2",
+      "Numéro_de_série": "9TMNPC2",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "5/1/2022"
@@ -703,7 +703,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZC141DVJR",
+      "Numéro_de_série": "CZC141DVJR",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/05/2017"
@@ -715,7 +715,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "AUD24209MX",
+      "Numéro_de_série": "AUD24209MX",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "6/1/2019"
@@ -727,7 +727,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "CZCA494T12",
+      "Numéro_de_série": "CZCA494T12",
       "system": "Windows 7 PRO",
       "Etat de PC": "A REMPLACER",
       "Date d'achat": "7/1/2019"
@@ -739,7 +739,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
-      "Numéro de série": "TRF1280WV1",
+      "Numéro_de_série": "TRF1280WV1",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "7/1/2019"
@@ -751,7 +751,7 @@
       "Type": "DESKTOP",
       "Modèle": "HP Desktop Pro",
       "Fabricant": "HP",
-      "Numéro de série": "4CE83800WS",
+      "Numéro_de_série": "4CE83800WS",
       "system": "Windows 10 PRO",
       "Etat de PC": "OPERATIONEL",
       "Date d'achat": "11/10/2021"
@@ -763,176 +763,176 @@
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
-      "Numéro de série": "5CD747FHRC",
+      "Numéro_de_série": "5CD747FHRC",
       "system": "Windows 10 PRO",
       "Etat de PC": "TRES LENT",
       "Date d'achat": "5/11/2018"
     }
   ],
 
-  
-    "imprimantes": [
-      {
-        "SERVICE": "CS",
-        "MARQUE": "KONICA",
-        "MODELE": "KONICA MINOLTA BIZHUB C227",
-        "NOM_UTILISATEUR": "CS SERVICE",
-        "MODEL": "MULTIFONCTION",
-        "TONNER": "COULEUR",
-        "DATE_D'ACHAT": "LOCATION",
-        "SN": "A798027533467"
-      },
-      {
-        "SERVICE": "TRANSIT",
-        "MARQUE": "KONICA",
-        "MODELE": "KONICA MINOLTA BIZHUB 227",
-        "NOM_UTILISATEUR": "TRANSIT",
-        "MODEL": "MULTIFONCTION",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "LOCATION",
-        "SN": "A7AK027020506"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "KONICA",
-        "MODELE": "KONICA MINOLTA BIZHUB 227",
-        "NOM_UTILISATEUR": "OPERATION",
-        "MODEL": "MULTIFONCTION",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "LOCATION",
-        "SN": "A7AK027020499"
-      },
-      {
-        "SERVICE": "DEPCOM",
-        "MARQUE": "KONICA",
-        "MODELE": "KONICA MINOLTA BIZHUB C3320I",
-        "NOM_UTILISATEUR": "DEPCOM",
-        "MODEL": "MULTIFONCTION",
-        "TONNER": "COULEUR",
-        "DATE_D'ACHAT": "LOCATION",
-        "SN": "AAJP021227528"
-      },
-      {
-        "SERVICE": "CS",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet Pro M402-M403",
-        "NOM_UTILISATEUR": "CS SERVICE",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "12/09/2018",
-        "SN": "PHC6F22092"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "HP",
-        "MODELE": "HP Color LaserJet Pro MFP M177 Series",
-        "NOM_UTILISATEUR": "Loubna EL BOURZGUI",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "COULEUR",
-        "DATE_D'ACHAT": "07/04/2019",
-        "SN": "CNG6K4659F"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "HP",
-        "MODELE": "HP LASERJET PRO M202 DN",
-        "NOM_UTILISATEUR": "ZAKIA ELBARRAQI",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "25/01/2019",
-        "SN": "VNC3830987"
-      },
-      {
-        "SERVICE": "CISCO",
-        "MARQUE": "HP",
-        "MODELE": "HP Laserjet M121nf MFP",
-        "NOM_UTILISATEUR": "SARA ELHADI",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "30/01/2017",
-        "SN": "CNG9D4K2YF"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "HP",
-        "MODELE": "HP Color LaserJet Pro MFP M180M",
-        "NOM_UTILISATEUR": "NAJIA LAMTI",
-        "MODEL": "MULTIFONCTION",
-        "TONNER": "COULEUR",
-        "DATE_D'ACHAT": "15/11/2020",
-        "SN": "VNC3851863"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet Pro M402-M403",
-        "NOM_UTILISATEUR": "ZAKARIA MOURID",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "12/09/2018",
-        "SN": "PHC6F22004"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet P2035",
-        "NOM_UTILISATEUR": "ISSAM ELHAIMER",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "07/09/2019",
-        "SN": "VNC4H73169"
-      },
-      {
-        "SERVICE": "OPERATION",
-        "MARQUE": "FUJITSU",
-        "MODELE": "Fi 7160",
-        "NOM_UTILISATEUR": "SCANER FEDEX",
-        "MODEL": "SCANER",
-        "TONNER": "SCANNER",
-        "DATE_D'ACHAT": "",
-        "SN": "A33AH15903"
-      },
-      {
-        "SERVICE": "CAISSIER",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet Pro M22fdw",
-        "NOM_UTILISATEUR": "NOUREDDINE NAJEM",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "27/02/202",
-        "SN": "VNL3310012"
-      },
-      {
-        "SERVICE": "MANIFEST",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet P2035",
-        "NOM_UTILISATEUR": "YOUSSEF ALAISSAMI",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "04/04/2019",
-        "SN": "VNC4H35250"
-      },
-      {
-        "SERVICE": "MAGASINAGE",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet P2035",
-        "NOM_UTILISATEUR": "AHMED ADJOU",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE_D'ACHAT": "04/04/2019",
-        "SN": "VNC4H68597"
-      },
-      {
-        "SERVICE": "FACTURATION",
-        "MARQUE": "HP",
-        "MODELE": "HP LaserJet P2035",
-        "NOM UTILISATEUR": "MOHAMED AJAOUA",
-        "MODEL": "IMPRIMANTE",
-        "TONNER": "NOIR ET BLANC",
-        "DATE D'ACHAT": "07/09/2019",
-        "SN": "VNC4H71231"
-      },
-      {"MARQUE": "HP",
+  "imprimantes": [
+    {
+      "SERVICE": "CS",
+      "MARQUE": "KONICA",
+      "MODELE": "KONICA MINOLTA BIZHUB C227",
+      "NOM_UTILISATEUR": "CS SERVICE",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "COULEUR",
+      "DATE_D'ACHAT": "LOCATION",
+      "SN": "A798027533467"
+    },
+    {
+      "SERVICE": "TRANSIT",
+      "MARQUE": "KONICA",
+      "MODELE": "KONICA MINOLTA BIZHUB 227",
+      "NOM_UTILISATEUR": "TRANSIT",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "LOCATION",
+      "SN": "A7AK027020506"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "KONICA",
+      "MODELE": "KONICA MINOLTA BIZHUB 227",
+      "NOM_UTILISATEUR": "OPERATION",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "LOCATION",
+      "SN": "A7AK027020499"
+    },
+    {
+      "SERVICE": "DEPCOM",
+      "MARQUE": "KONICA",
+      "MODELE": "KONICA MINOLTA BIZHUB C3320I",
+      "NOM_UTILISATEUR": "DEPCOM",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "COULEUR",
+      "DATE_D'ACHAT": "LOCATION",
+      "SN": "AAJP021227528"
+    },
+    {
+      "SERVICE": "CS",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet Pro M402-M403",
+      "NOM_UTILISATEUR": "CS SERVICE",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "12/09/2018",
+      "SN": "PHC6F22092"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "HP",
+      "MODELE": "HP Color LaserJet Pro MFP M177 Series",
+      "NOM_UTILISATEUR": "Loubna EL BOURZGUI",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "COULEUR",
+      "DATE_D'ACHAT": "07/04/2019",
+      "SN": "CNG6K4659F"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "HP",
+      "MODELE": "HP LASERJET PRO M202 DN",
+      "NOM_UTILISATEUR": "ZAKIA ELBARRAQI",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "25/01/2019",
+      "SN": "VNC3830987"
+    },
+    {
+      "SERVICE": "CISCO",
+      "MARQUE": "HP",
+      "MODELE": "HP Laserjet M121nf MFP",
+      "NOM_UTILISATEUR": "SARA ELHADI",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "30/01/2017",
+      "SN": "CNG9D4K2YF"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "HP",
+      "MODELE": "HP Color LaserJet Pro MFP M180M",
+      "NOM_UTILISATEUR": "NAJIA LAMTI",
+      "MODEL": "MULTIFONCTION",
+      "TONNER": "COULEUR",
+      "DATE_D'ACHAT": "15/11/2020",
+      "SN": "VNC3851863"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet Pro M402-M403",
+      "NOM_UTILISATEUR": "ZAKARIA MOURID",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "12/09/2018",
+      "SN": "PHC6F22004"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet P2035",
+      "NOM_UTILISATEUR": "ISSAM ELHAIMER",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "07/09/2019",
+      "SN": "VNC4H73169"
+    },
+    {
+      "SERVICE": "OPERATION",
+      "MARQUE": "FUJITSU",
+      "MODELE": "Fi 7160",
+      "NOM_UTILISATEUR": "SCANER FEDEX",
+      "MODEL": "SCANER",
+      "TONNER": "SCANNER",
+      "DATE_D'ACHAT": "",
+      "SN": "A33AH15903"
+    },
+    {
+      "SERVICE": "CAISSIER",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet Pro M22fdw",
+      "NOM_UTILISATEUR": "NOUREDDINE NAJEM",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "27/02/202",
+      "SN": "VNL3310012"
+    },
+    {
+      "SERVICE": "MANIFEST",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet P2035",
+      "NOM_UTILISATEUR": "YOUSSEF ALAISSAMI",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "04/04/2019",
+      "SN": "VNC4H35250"
+    },
+    {
+      "SERVICE": "MAGASINAGE",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet P2035",
+      "NOM_UTILISATEUR": "AHMED ADJOU",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE_D'ACHAT": "04/04/2019",
+      "SN": "VNC4H68597"
+    },
+    {
+      "SERVICE": "FACTURATION",
+      "MARQUE": "HP",
+      "MODELE": "HP LaserJet P2035",
+      "NOM UTILISATEUR": "MOHAMED AJAOUA",
+      "MODEL": "IMPRIMANTE",
+      "TONNER": "NOIR ET BLANC",
+      "DATE D'ACHAT": "07/09/2019",
+      "SN": "VNC4H71231"
+    },
+    {
+      "MARQUE": "HP",
       "MODELE": "HP LaserJet P2035",
       "NOM_UTILISATEUR": "MOHAMED AJAOUA",
       "MODEL": "IMPRIMANTE",
