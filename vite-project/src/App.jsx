@@ -23,7 +23,13 @@ function App() {
       <h1>imprimantes</h1>
       {data && data.imprimantes.map((d) => <Barcode value={d.SN} />)}
     </div>
+
+    
   );
+
+
+
+
 }
 
 export default App;
