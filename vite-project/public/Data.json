@@ -3,771 +3,771 @@
     {
       "N": 1,
       "SERVICE": "CS AUDITRICE",
-      "FULL NAME": "SOFIA CHAKKOUCHE",
+      "FULL_NAME": "SOFIA CHAKKOUCHE",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG032539H",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "10/18/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "10/18/2023"
     },
     {
       "N": 2,
-      
+
       "SERVICE": "CS IMPORT",
-      "FULL NAME": "HAJAR GOURARI",
+      "FULL_NAME": "HAJAR GOURARI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6031W7T",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "1/31/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "1/31/2023"
     },
     {
       "N": 3,
       "SERVICE": "CS IMPORT",
-      "FULL NAME": "SOHA SALIM",
+      "FULL_NAME": "SOHA SALIM",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC7099XJK",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 4,
       "SERVICE": "CS IMPORT",
-      "FULL NAME": "MOHAMMED BELLAHCEN",
+      "FULL_NAME": "MOHAMMED BELLAHCEN",
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
       "Numéro_de_série": "ES12032250",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "1/10/2016"
+      "Etat": "A REMPLACER",
+      "DA": "1/10/2016"
     },
     {
       "N": 5,
       "SERVICE": "CS IMPORT",
-      "FULL NAME": "FATIMAEZZAHRA HMIDDANE",
+      "FULL_NAME": "FATIMAEZZAHRA HMIDDANE",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6031W8P",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 6,
       "SERVICE": "CS EXPORT",
-      "FULL NAME": "MOHAMED GUIDALI",
+      "FULL_NAME": "MOHAMED GUIDALI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6429P55",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 7,
       "SERVICE": "CS EXPORT",
-      "FULL NAME": "ZAINAB OUNASSER",
+      "FULL_NAME": "ZAINAB OUNASSER",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6258QYF",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 8,
       "SERVICE": "CS EXPORT",
-      "FULL NAME": "YOUSSEF ABOUNAIM",
+      "FULL_NAME": "YOUSSEF ABOUNAIM",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G1",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC5431Y8Y",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/06/2021"
+      "Etat": "OPERATIONEL",
+      "DA": "11/06/2021"
     },
     {
       "N": 9,
       "SERVICE": "CS EXPORT",
-      "FULL NAME": "IKRAM LAHYAOUI",
+      "FULL_NAME": "IKRAM LAHYAOUI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6258QX6",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 10,
       "SERVICE": "CS EXPORT",
-      "FULL NAME": "SANAA ELHBARI",
+      "FULL_NAME": "SANAA ELHBARI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA6292BBV",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 11,
       "SERVICE": "CS RESA",
-      "FULL NAME": "NAOUAL CHABIB",
+      "FULL_NAME": "NAOUAL CHABIB",
       "Type": "LAPTOP",
       "Modèle": "HP 250 G6",
       "Fabricant": "HP ",
       "Numéro_de_série": "CND9023PKW",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "4/23/2019"
+      "Etat": "OPERATIONEL",
+      "DA": "4/23/2019"
     },
     {
       "N": 12,
       "SERVICE": "CS RESA",
-      "FULL NAME": "HASNAA BELAMIRI",
+      "FULL_NAME": "HASNAA BELAMIRI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP ",
       "Numéro_de_série": "CZC6031W7C",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 13,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "KHADIJA ROUZAIK",
+      "FULL_NAME": "KHADIJA ROUZAIK",
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
       "Numéro_de_série": "GLDKPF2",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "5/1/2022"
+      "Etat": "OPERATIONEL",
+      "DA": "5/1/2022"
     },
     {
       "N": 14,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "MOUSTAPHA DRIF",
+      "FULL_NAME": "MOUSTAPHA DRIF",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6429P60",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 15,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "KAOUTAR SAIL",
+      "FULL_NAME": "KAOUTAR SAIL",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC0304Q6P",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "01/05/2018"
+      "Etat": "OPERATIONEL",
+      "DA": "01/05/2018"
     },
     {
       "N": 16,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "SAADEDDINE AKKAOUI",
+      "FULL_NAME": "SAADEDDINE AKKAOUI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC62888SZ",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 17,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "DRISS KHAYAR",
+      "FULL_NAME": "DRISS KHAYAR",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6031W7V",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 18,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "FOUZIA BELOUCHI",
+      "FULL_NAME": "FOUZIA BELOUCHI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6258QY9",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 19,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "IKRAME ZOUGARI",
+      "FULL_NAME": "IKRAME ZOUGARI",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6278VKP",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 20,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "AYMANE GHARNITI",
+      "FULL_NAME": "AYMANE GHARNITI",
       "Type": "DESKTOP",
       "Modèle": "HP ELITE DISK 800 G1",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC5520F68",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "6/15/2021"
+      "Etat": "OPERATIONEL",
+      "DA": "6/15/2021"
     },
     {
       "N": 21,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "ZINEB BENMOUSSA",
+      "FULL_NAME": "ZINEB BENMOUSSA",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6069ZT6",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 22,
       "SERVICE": "CS CLEARENCE",
-      "FULL NAME": "HOUDA LAGHRIB",
+      "FULL_NAME": "HOUDA LAGHRIB",
       "Type": "DESKTOP",
       "Modèle": "HP PRODESK 600 G2",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC6278WJ7",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 23,
       "SERVICE": "RH",
-      "FULL NAME": "FATIMA DOUIYA",
+      "FULL_NAME": "FATIMA DOUIYA",
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
       "Numéro_de_série": "5CD747FHQN",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "5/11/2017"
+      "Etat": "OPERATIONEL",
+      "DA": "5/11/2017"
     },
     {
       "N": 24,
       "SERVICE": "RH",
-      "FULL NAME": "FATIMA DOUIYA",
+      "FULL_NAME": "FATIMA DOUIYA",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC0304Q68",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "04/05/2016"
+      "Etat": "A REMPLACER",
+      "DA": "04/05/2016"
     },
     {
       "N": 25,
       "SERVICE": "RH",
-      "FULL NAME": "FATIMA DOUIYA",
+      "FULL_NAME": "FATIMA DOUIYA",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC116BPD",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "6/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "6/1/2019"
     },
     {
       "N": 26,
       "SERVICE": "RH",
-      "FULL NAME": "SERVEUR DE CAMERA",
+      "FULL_NAME": "SERVEUR DE CAMERA",
       "Type": "DESKTOP",
       "Modèle": "HP Z440 Workstation",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA5301R99",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": null
+      "Etat": "OPERATIONEL",
+      "DA": null
     },
     {
       "N": 27,
       "SERVICE": "DEPCOM",
-      "FULL NAME": "KHADIJA LOUKIHI",
+      "FULL_NAME": "KHADIJA LOUKIHI",
       "Type": "LAPTOP",
       "Modèle": "HP NOTEBOOK",
       "Fabricant": "HP",
       "Numéro_de_série": "CND53885G",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "3/20/2017"
+      "Etat": "A REMPLACER",
+      "DA": "3/20/2017"
     },
     {
       "N": 28,
       "SERVICE": "DEPCOM",
-      "FULL NAME": "OTHMAN KDADRI",
+      "FULL_NAME": "OTHMAN KDADRI",
       "Type": "LAPTOP",
       "Modèle": "HP 250 G6",
       "Fabricant": "HP",
       "Numéro_de_série": "CND9023PND",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "23/04/2019"
+      "Etat": "A REMPLACER",
+      "DA": "23/04/2019"
     },
     {
       "N": 29,
       "SERVICE": "DEPCOM",
-      "FULL NAME": "MAJDA BOUAFY",
+      "FULL_NAME": "MAJDA BOUAFY",
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK  450 G3",
       "Fabricant": "HP",
       "Numéro_de_série": "5CD639263M",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/05/2018"
+      "Etat": "OPERATIONEL",
+      "DA": "11/05/2018"
     },
     {
       "N": 30,
       "SERVICE": "DEPCOM",
-      "FULL NAME": "SAFAA HOUATI",
+      "FULL_NAME": "SAFAA HOUATI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC12010J2",
       "system": "Windows 7 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/05/2018"
+      "Etat": "OPERATIONEL",
+      "DA": "11/05/2018"
     },
     {
       "N": 31,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "Loubna EL BOURZGUI",
+      "FULL_NAME": "Loubna EL BOURZGUI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC1384430",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "23/04/2019"
+      "Etat": "OPERATIONEL",
+      "DA": "23/04/2019"
     },
     {
       "N": 32,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "Loubna EL BOURZGUI",
+      "FULL_NAME": "Loubna EL BOURZGUI",
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E7470",
       "Fabricant": "DELL",
       "Numéro_de_série": "5N1TQF2",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "03/03/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "03/03/2023"
     },
     {
       "N": 33,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "NAJIA LAMTI",
+      "FULL_NAME": "NAJIA LAMTI",
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
       "Numéro_de_série": "FC0XKC2",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "5/1/2022"
+      "Etat": "OPERATIONEL",
+      "DA": "5/1/2022"
     },
     {
       "N": 34,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ZAKIA ELBARRAQI",
+      "FULL_NAME": "ZAKIA ELBARRAQI",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG0230TVM",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "10/18/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "10/18/2023"
     },
     {
       "N": 35,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ZAKIA ELBARRAQI",
+      "FULL_NAME": "ZAKIA ELBARRAQI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "AUD242084C",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "7/1/2019"
+      "Etat": "OPERATIONEL",
+      "DA": "7/1/2019"
     },
     {
       "N": 36,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ISSAM ELHAIMER",
+      "FULL_NAME": "ISSAM ELHAIMER",
       "Type": "DESKTOP",
       "Modèle": "HP PROBOOK 600 G3",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA73833Y8",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "10/18/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "10/18/2023"
     },
     {
       "N": 37,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "PC GENESIS",
+      "FULL_NAME": "PC GENESIS",
       "Type": "DESKTOP",
       "Modèle": "HP Engage Flex Pro",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC939CZDG",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": null
+      "Etat": "OPERATIONEL",
+      "DA": null
     },
     {
       "N": 38,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ZOUHAIR ELOUMARI",
+      "FULL_NAME": "ZOUHAIR ELOUMARI",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G4",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG7280KP7",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "8/7/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "8/7/2023"
     },
     {
       "N": 39,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ISSA ELKIHEL",
+      "FULL_NAME": "ISSA ELKIHEL",
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
       "Numéro_de_série": "ES12032253",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "1/10/2016"
+      "Etat": "A REMPLACER",
+      "DA": "1/10/2016"
     },
     {
       "N": 40,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "BADR RASSY",
+      "FULL_NAME": "BADR RASSY",
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G1",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA5481B2D",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "6/15/2021"
+      "Etat": "OPERATIONEL",
+      "DA": "6/15/2021"
     },
     {
       "N": 41,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "BADR RASSY",
+      "FULL_NAME": "BADR RASSY",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG0479HYG",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "10/18/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "10/18/2023"
     },
     {
       "N": 42,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "MOHAMED BHAIZI",
+      "FULL_NAME": "MOHAMED BHAIZI",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G6",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG04799CN",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "10/18/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "10/18/2023"
     },
     {
       "N": 43,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "ZAKARIA MOURID",
+      "FULL_NAME": "ZAKARIA MOURID",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC2017SC9",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "01/05/2018"
+      "Etat": "A REMPLACER",
+      "DA": "01/05/2018"
     },
     {
       "N": 44,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "NOUREDDINE MAIDEN",
+      "FULL_NAME": "NOUREDDINE MAIDEN",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 6200 PRO",
       "Fabricant": "HP",
       "Numéro_de_série": "TRF14205FB",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "01/05/2018"
+      "Etat": "A REMPLACER",
+      "DA": "01/05/2018"
     },
     {
       "N": 45,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "HAMZA EZAKI",
+      "FULL_NAME": "HAMZA EZAKI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "AUD2420BKC",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "7/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "7/1/2019"
     },
     {
       "N": 46,
       "SERVICE": "CISCO",
-      "FULL NAME": "cc",
+      "FULL_NAME": "cc",
       "Type": "LAPTOP",
       "Modèle": "HP ELITEBOOK 840 G3",
       "Fabricant": "HP",
       "Numéro_de_série": "5CG7042QB7",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "3/26/2021"
+      "Etat": "A REMPLACER",
+      "DA": "3/26/2021"
     },
     {
       "N": 47,
       "SERVICE": "CISCO",
-      "FULL NAME": "TAOUFIK ACHAB",
+      "FULL_NAME": "TAOUFIK ACHAB",
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
       "Numéro_de_série": "5CD747FHPN",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/05/2018"
+      "Etat": "OPERATIONEL",
+      "DA": "11/05/2018"
     },
     {
       "N": 48,
       "SERVICE": "CISCO",
-      "FULL NAME": "REDOUANE MOUDRIK",
+      "FULL_NAME": "REDOUANE MOUDRIK",
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G3",
       "Fabricant": "HP",
       "Numéro_de_série": "8CG8228889",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "31/01/2023"
+      "Etat": "OPERATIONEL",
+      "DA": "31/01/2023"
     },
     {
       "N": 49,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "MAATI KHETTAB",
+      "FULL_NAME": "MAATI KHETTAB",
       "Type": "LAPTOP",
       "Modèle": "DELL Latitude E5470",
       "Fabricant": "DELL",
       "Numéro_de_série": "7HX1BG2",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "5/1/2022"
+      "Etat": "OPERATIONEL",
+      "DA": "5/1/2022"
     },
     {
       "N": 50,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "MOHAMED TITANI",
+      "FULL_NAME": "MOHAMED TITANI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA0491759",
       "system": "Windows 7 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "6/1/2019"
+      "Etat": "OPERATIONEL",
+      "DA": "6/1/2019"
     },
     {
       "N": 51,
       "SERVICE": "OPÉRATION",
-      "FULL NAME": "PC STA OPS",
+      "FULL_NAME": "PC STA OPS",
       "Type": "DESKTOP",
       "Modèle": "HP ELITEDESK 800 G1",
       "Fabricant": "HP",
       "Numéro_de_série": "2UA5481922",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "6/15/2021"
+      "Etat": "OPERATIONEL",
+      "DA": "6/15/2021"
     },
     {
       "N": 52,
       "SERVICE": "FACTURATION",
-      "FULL NAME": "MOHAMED AJAOUA",
+      "FULL_NAME": "MOHAMED AJAOUA",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "AUD20108WF",
       "system": "Windows 7 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/05/2017"
+      "Etat": "OPERATIONEL",
+      "DA": "11/05/2017"
     },
     {
       "N": 53,
       "SERVICE": "CAISSIER",
-      "FULL NAME": "NOUREDDINE NAJEM",
+      "FULL_NAME": "NOUREDDINE NAJEM",
       "Type": "DESKTOP",
       "Modèle": "HP Desktop Pro G2",
       "Fabricant": "HP",
       "Numéro_de_série": "4CE9090QF8",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "1/1/2020"
+      "Etat": "OPERATIONEL",
+      "DA": "1/1/2020"
     },
     {
       "N": 54,
       "SERVICE": "DECLARANT",
-      "FULL NAME": "SOUAD MAHMOUDI",
+      "FULL_NAME": "SOUAD MAHMOUDI",
       "Type": "DESKTOP",
       "Modèle": "LENOVO 10093",
       "Fabricant": "LENOVO",
       "Numéro_de_série": "ES12032245",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "1/10/2016"
+      "Etat": "OPERATIONEL",
+      "DA": "1/10/2016"
     },
     {
       "N": 55,
       "SERVICE": "DECLARANT",
-      "FULL NAME": "OUASSAMA BOUMRAJ",
+      "FULL_NAME": "OUASSAMA BOUMRAJ",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 6200 PRO",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC1283NLX",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "01/05/2018"
+      "Etat": "A REMPLACER",
+      "DA": "01/05/2018"
     },
     {
       "N": 56,
       "SERVICE": "DECLARANT",
-      "FULL NAME": "CHAIMAE BAHI",
+      "FULL_NAME": "CHAIMAE BAHI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC0304Q63",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "6/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "6/1/2019"
     },
     {
       "N": 57,
       "SERVICE": "MANIFEST",
-      "FULL NAME": "YOUSSEF ALAISSAMI",
+      "FULL_NAME": "YOUSSEF ALAISSAMI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8100 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC0304Q74",
       "system": "Windows 10 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "6/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "6/1/2019"
     },
     {
       "N": 58,
       "SERVICE": "MANIFEST",
-      "FULL NAME": "YOUSSEF ALAISSAMI",
+      "FULL_NAME": "YOUSSEF ALAISSAMI",
       "Type": "LAPTOP",
       "Modèle": "DELL LATITUDE E5470",
       "Fabricant": "DELL",
       "Numéro_de_série": "9TMNPC2",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "5/1/2022"
+      "Etat": "OPERATIONEL",
+      "DA": "5/1/2022"
     },
     {
       "N": 59,
       "SERVICE": "MANIFEST",
-      "FULL NAME": "STAGIAIRE MANIFESTE",
+      "FULL_NAME": "STAGIAIRE MANIFESTE",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZC141DVJR",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/05/2017"
+      "Etat": "OPERATIONEL",
+      "DA": "11/05/2017"
     },
     {
       "N": 60,
       "SERVICE": "MAGASINAGE",
-      "FULL NAME": "AHMED ADJOU",
+      "FULL_NAME": "AHMED ADJOU",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "AUD24209MX",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "6/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "6/1/2019"
     },
     {
       "N": 61,
       "SERVICE": "MAGASINAGE",
-      "FULL NAME": "SOUFIANE ADAOUDI",
+      "FULL_NAME": "SOUFIANE ADAOUDI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "CZCA494T12",
       "system": "Windows 7 PRO",
-      "Etat de PC": "A REMPLACER",
-      "Date d'achat": "7/1/2019"
+      "Etat": "A REMPLACER",
+      "DA": "7/1/2019"
     },
     {
       "N": 62,
       "SERVICE": "COMMMIS",
-      "FULL NAME": "MAHDI ALAOUI",
+      "FULL_NAME": "MAHDI ALAOUI",
       "Type": "DESKTOP",
       "Modèle": "HP COMPAQ 8200 ELITE",
       "Fabricant": "HP",
       "Numéro_de_série": "TRF1280WV1",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "7/1/2019"
+      "Etat": "OPERATIONEL",
+      "DA": "7/1/2019"
     },
     {
       "N": 63,
       "SERVICE": "DOUANE",
-      "FULL NAME": "DOUANE",
+      "FULL_NAME": "DOUANE",
       "Type": "DESKTOP",
       "Modèle": "HP Desktop Pro",
       "Fabricant": "HP",
       "Numéro_de_série": "4CE83800WS",
       "system": "Windows 10 PRO",
-      "Etat de PC": "OPERATIONEL",
-      "Date d'achat": "11/10/2021"
+      "Etat": "OPERATIONEL",
+      "DA": "11/10/2021"
     },
     {
       "N": 64,
       "SERVICE": "MARKETING",
-      "FULL NAME": "MAJDA LAKBAKBI",
+      "FULL_NAME": "MAJDA LAKBAKBI",
       "Type": "LAPTOP",
       "Modèle": "HP PROBOOK 450 G5",
       "Fabricant": "HP",
       "Numéro_de_série": "5CD747FHRC",
       "system": "Windows 10 PRO",
-      "Etat de PC": "TRES LENT",
-      "Date d'achat": "5/11/2018"
+      "Etat": "TRES LENT",
+      "DA": "5/11/2018"
     }
   ],
 
@@ -779,7 +779,7 @@
       "NOM_UTILISATEUR": "CS SERVICE",
       "MODEL": "MULTIFONCTION",
       "TONNER": "COULEUR",
-      "DATE_D'ACHAT": "LOCATION",
+      "DA": "LOCATION",
       "SN": "A798027533467"
     },
     {
@@ -789,7 +789,7 @@
       "NOM_UTILISATEUR": "TRANSIT",
       "MODEL": "MULTIFONCTION",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "LOCATION",
+      "DA": "LOCATION",
       "SN": "A7AK027020506"
     },
     {
@@ -799,7 +799,7 @@
       "NOM_UTILISATEUR": "OPERATION",
       "MODEL": "MULTIFONCTION",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "LOCATION",
+      "DA": "LOCATION",
       "SN": "A7AK027020499"
     },
     {
@@ -809,7 +809,7 @@
       "NOM_UTILISATEUR": "DEPCOM",
       "MODEL": "MULTIFONCTION",
       "TONNER": "COULEUR",
-      "DATE_D'ACHAT": "LOCATION",
+      "DA": "LOCATION",
       "SN": "AAJP021227528"
     },
     {
@@ -819,7 +819,7 @@
       "NOM_UTILISATEUR": "CS SERVICE",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "12/09/2018",
+      "DA": "12/09/2018",
       "SN": "PHC6F22092"
     },
     {
@@ -829,7 +829,7 @@
       "NOM_UTILISATEUR": "Loubna EL BOURZGUI",
       "MODEL": "IMPRIMANTE",
       "TONNER": "COULEUR",
-      "DATE_D'ACHAT": "07/04/2019",
+      "DA": "07/04/2019",
       "SN": "CNG6K4659F"
     },
     {
@@ -839,7 +839,7 @@
       "NOM_UTILISATEUR": "ZAKIA ELBARRAQI",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "25/01/2019",
+      "DA": "25/01/2019",
       "SN": "VNC3830987"
     },
     {
@@ -849,7 +849,7 @@
       "NOM_UTILISATEUR": "SARA ELHADI",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "30/01/2017",
+      "DA": "30/01/2017",
       "SN": "CNG9D4K2YF"
     },
     {
@@ -859,7 +859,7 @@
       "NOM_UTILISATEUR": "NAJIA LAMTI",
       "MODEL": "MULTIFONCTION",
       "TONNER": "COULEUR",
-      "DATE_D'ACHAT": "15/11/2020",
+      "DA": "15/11/2020",
       "SN": "VNC3851863"
     },
     {
@@ -869,7 +869,7 @@
       "NOM_UTILISATEUR": "ZAKARIA MOURID",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "12/09/2018",
+      "DA": "12/09/2018",
       "SN": "PHC6F22004"
     },
     {
@@ -879,7 +879,7 @@
       "NOM_UTILISATEUR": "ISSAM ELHAIMER",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "07/09/2019",
+      "DA": "07/09/2019",
       "SN": "VNC4H73169"
     },
     {
@@ -889,7 +889,7 @@
       "NOM_UTILISATEUR": "SCANER FEDEX",
       "MODEL": "SCANER",
       "TONNER": "SCANNER",
-      "DATE_D'ACHAT": "",
+      "DA": "",
       "SN": "A33AH15903"
     },
     {
@@ -899,7 +899,7 @@
       "NOM_UTILISATEUR": "NOUREDDINE NAJEM",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "27/02/202",
+      "DA": "27/02/202",
       "SN": "VNL3310012"
     },
     {
@@ -909,7 +909,7 @@
       "NOM_UTILISATEUR": "YOUSSEF ALAISSAMI",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "04/04/2019",
+      "DA": "04/04/2019",
       "SN": "VNC4H35250"
     },
     {
@@ -919,7 +919,7 @@
       "NOM_UTILISATEUR": "AHMED ADJOU",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "04/04/2019",
+      "DA": "04/04/2019",
       "SN": "VNC4H68597"
     },
     {
@@ -929,7 +929,7 @@
       "NOM UTILISATEUR": "MOHAMED AJAOUA",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE D'ACHAT": "07/09/2019",
+      "DA": "07/09/2019",
       "SN": "VNC4H71231"
     },
     {
@@ -938,7 +938,7 @@
       "NOM_UTILISATEUR": "MOHAMED AJAOUA",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "07/09/2019",
+      "DA": "07/09/2019",
       "SN": "VNC4H71231"
     },
     {
@@ -948,7 +948,7 @@
       "NOM_UTILISATEUR": "DOUANE",
       "MODEL": "IMPRIMANTE",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "05/07/2019",
+      "DA": "05/07/2019",
       "SN": "VNC3T94409"
     },
     {
@@ -958,7 +958,7 @@
       "NOM_UTILISATEUR": "FATIMA DOUIYA",
       "MODEL": "MULTIFONCTION",
       "TONNER": "NOIR ET BLANC",
-      "DATE_D'ACHAT": "30/01/2017",
+      "DA": "30/01/2017",
       "SN": "CNB9J593HN"
     }
   ]
