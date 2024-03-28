@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import BarecodeGenerator from "./Component/BarecodeGenerator";
 import Barcode from "react-barcode";
+import Login from "./Component/Login/Login";
+import { Route, Routes } from "react-router-dom";
 
 function App() {
   const [data, setData] = useState();
@@ -16,20 +18,10 @@ function App() {
   }, []);
 
   return (
-    <div className="container">
-      {data &&
-        data.ordinateurs.map((d) => <Barcode value={d.Numéro_de_série} />)}
-      <hr />
-      <h1>imprimantes</h1>
-      {data && data.imprimantes.map((d) => <Barcode value={d.SN} />)}
-    </div>
-
-    
+    <Routes>
+      <Route path="/" element={<Login />} />
+    </Routes>
   );
-
-
-
-
 }
 
 export default App;
