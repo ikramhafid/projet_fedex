@@ -1,26 +1,23 @@
-import { useEffect, useState } from "react";
 import "./App.css";
-import BarecodeGenerator from "./Component/BarecodeGenerator";
-import Barcode from "react-barcode";
+
 import Login from "./Component/Login/Login";
 import { Route, Routes } from "react-router-dom";
+import ShowAllComputers from "./Component/showAll/ShowAllComputers";
+import ShowAllImp from "./Component/showAll/ShowAllImp";
+import ShowInfo from "./Component/ShowInfo/ShowInfo";
+import Navbar from "./Component/Navbar/Navbar";
 
 function App() {
-  const [data, setData] = useState();
-
-  useEffect(() => {
-    fetch("/Data.json")
-      .then((res) => res.json())
-      .then((res) => {
-        setData(res);
-        console.log(res);
-      });
-  }, []);
-
   return (
-    <Routes>
-      <Route path="/" element={<Login />} />
-    </Routes>
+    <>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/ordinateurs" element={<ShowAllComputers />} />
+        <Route path="/imprimantes" element={<ShowAllImp />} />
+        <Route path="/:type/:sn" element={<ShowInfo />} />
+      </Routes>
+    </>
   );
 }
 

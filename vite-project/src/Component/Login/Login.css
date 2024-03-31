@@ -1,14 +1,15 @@
-
-.wrapper{
-
-    width: 420px;
-    background:transparent;
-    border: 2px solid rgba(225, 225, 225,2);
-    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
-    color: #fff;
-    border-radius: 10px;
-    padding: 30px 40px;
-
+.wrapper {
+  width: 420px;
+  background: url('./assets/pcfedex.png');
+  /* border: 2px solid rgba(225, 225, 225, 2);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+  color: #fff;
+  border-radius: 10px;
+  padding: 30px 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
 }
 
@@ -57,7 +58,7 @@
 
 .remember-forgot label input {
   margin-right: 4px;
-  accent-color: #fff;
+  /*accent-color: #fff;*/
 }
 
 .remember-forgot a {
